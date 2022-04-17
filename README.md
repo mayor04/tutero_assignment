@@ -22,7 +22,7 @@ The video shows a mouse cursor due to the type of video recorder that was used
 4. Collision-detection (Required For Level 5) - ✅ Completed but could be improved
 
 5. Add a timer - X -
-    Forgot to add this feature but in the UI before the deadline but it was implemented in the state management
+    Forgot to add this feature in the UI before the deadline but it was implemented in the state management
 
 6. Add a cursor (Required for level 7) - ✅
    Implemented this feature to allow cursor follow mouse
