@@ -1,6 +1,6 @@
 # tutero_assignment
 
-No changes made aferr deadline: Last commit apart from readme update was done 5:25 (IST) 
+No changes made after deadline: Last commit apart from readme update was done 5:25 (IST) 
 
 ## Getting Started
 
